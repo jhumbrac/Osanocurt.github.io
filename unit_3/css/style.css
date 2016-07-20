@@ -1,8 +1,10 @@
 body {
 	color: #110493;
+	background-image: green;
 }
 h1 {
 	color: #876D11;
+	text-align: center;
 
 }
 h3 {
