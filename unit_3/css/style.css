@@ -2,6 +2,7 @@ body {
 	color: #110493;
 	background-color: green;
 	text-align: center;
+	font-family:'Yanone Kaffeesatz' , sans-serif;
 }
 h1 {
 	color: #876D11;
@@ -13,7 +14,7 @@ h3 {
 	font-style: italic;
 }
 p {
-	font-family: verdana;
+	font-family: 'Lora' serif; 
 	font-size: 16px;
 	text-align: center;
 }
