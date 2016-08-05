@@ -1,7 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+* { margin:0; padding:0; box-sizing:border-box; }
 header {
-	background-color: #FFED74;
+	background: url(../images/grass1.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
 	border: 1px black solid;
 	padding: 20px;
+	height: 90vh;
+	color: #fff;
 }
 nav {
 	background-color: #E8C66A;
@@ -23,7 +29,7 @@ footer {
 	border: 1px black solid;
 	padding: 20px;
 }
-div/section {
+div, section {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
